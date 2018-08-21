@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { NavigationComponent } from './containers/navigation/navigation.component';
+import { SignupComponent } from './containers/signup/signup.component';
 
 @Component({
   selector: 'app-root',

@@ -1,0 +1,11 @@
+{
+  "meetings": [{
+    "id": 1,
+    "type": "vote",
+    "title": "ABC Afstemning"
+  }, {
+    "id": 2,
+    "type": "vote",
+    "title": "Alt om min mode"
+  }]
+}
